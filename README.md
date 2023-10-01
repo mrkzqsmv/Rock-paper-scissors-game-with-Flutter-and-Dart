@@ -1,3 +1,1 @@
-# rock_paper_scissors_game
-
-"A new Flutter project."
+# Rock paper scissors game with Flutter and Dart
