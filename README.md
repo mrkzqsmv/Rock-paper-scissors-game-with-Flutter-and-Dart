@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td><img src='https://github.com/mrkzqsmv/Rock-paper-scissors-game-with-Flutter-and-Dart/blob/main/app_screens/WhatsApp%20Image%202023-10-01%20at%205.57.19%20PM.jpeg'></td>
-    <td><img src=''></td>
+    <td></td>
   </tr>
 </table>
 
